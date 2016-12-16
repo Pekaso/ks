@@ -1,0 +1,4 @@
+ks:
+
+clean:
+	$(RM) ks
